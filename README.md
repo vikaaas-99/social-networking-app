@@ -60,7 +60,7 @@ This is a Django REST Framework project that implements a social networking API 
 
 ## Postman Collection
 
-A Postman collection with all API endpoints is available in the project. [Download here](https://github.com/vikaaas-99/social-networking-app/blob/8585f7e449fe643d449595347b51023435ab3fb3/Accuknox.postman_collection.json).
+A [Postman collection](https://github.com/vikaaas-99/social-networking-app/blob/8585f7e449fe643d449595347b51023435ab3fb3/Accuknox.postman_collection.json) with all API endpoints is available in the project.
 
 ## Docker
 
